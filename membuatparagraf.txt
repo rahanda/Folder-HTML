@@ -1,0 +1,18 @@
+!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Paragraf</title>
+</head>
+<body>
+<!-- Contoh dari br dan hr -->
+<p>ini adalah <br> paragraf 1</p><hr>
+<p>Ini adalah <br> paragraf 2</p><hr>
+<p>Ini adalah <br> paragraf 3</p><hr>
+<!-- Contoh dari b,i,dan u -->
+<p><b>Selamat Datang Dikuliah Pemerograman</b></p>
+<p><u>dengan</u> <i>saya sendiri</i></p>
+<hr>
+<!-- Contoh dari strong dan em -->
+<p><strong>Pengumuman</strong> <em>Kuliah di tiadakan pada hari senin dan jumat</em></p>
+</body>
+</html>

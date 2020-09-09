@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Heading</title>
+</head>
+<body>
+<h1>1</h1>
+<h2>2</h2>
+<h3>3</h3>
+<h4>4</h4>
+<h5>5</h5>
+<h6>6</h6>
+<hr>
+<h1>Judul Artikel</h1>
+<p>isi artikel</p>
+<h2>Sub judul</h2>
+<p>Sub body arrtikel</p>
+</body>
+</html>

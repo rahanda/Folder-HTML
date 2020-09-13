@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table</title>
+</head>
+<body>
+<table border="2" cellspacing="1" cellpadding="10">
+	<thead>
+		<th></th>
+		<th>Kolom1</th>
+		<th>Kolom2</th>
+	</thead>
+	<tbody>
+	<tr>
+		<th>Baris1</th>
+		<td>Baris1, Kolom1</td>
+		<td>Baris1, Kolom2</td>
+		<td>asdas</td>	
+	</tr>
+	<tr>
+		<th>Baris2</th>
+		<td>Baris2, Kolom1</td>
+		<td>Baris2, Kolom2</td>
+		<td>abab</td>
+	</tr>
+	<tr>
+		<th>Baris3</th>
+		<td>Baris3, Kolom1</td>
+		<td>Baris3, Kolom2</td>
+		<td>baba</td>
+	</tr>
+	</tbody>
+</table>
+</body>
+</html>
